@@ -28,7 +28,7 @@ namespace vbEngC
         
         IFirebaseConfig fcon = new FirebaseConfig()
         {
-            AuthSecret = "9yMwkfkYIZDd39eyFUfLxZoFu8fjpks9SDb3yvSQ",
+            AuthSecret = "",
             BasePath = "https://mypro-a5ae4-default-rtdb.firebaseio.com/"
         };
 
